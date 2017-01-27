@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module ip-aes128
+module ip_aes128
 #
 (
 parameter DATA_W = 128,      //data width
